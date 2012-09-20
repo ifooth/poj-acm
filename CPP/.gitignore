@@ -1,3 +1,9 @@
+# ignore folder
+debug/
+ipch/
+# ignore link files
+*.sdf
+
 # Compiled Object files
 *.slo
 *.lo
