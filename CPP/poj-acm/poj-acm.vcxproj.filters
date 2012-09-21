@@ -18,10 +18,13 @@
     <ClCompile Include="problem_1000_1025.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="poj-acm.cpp">
+    <ClCompile Include="problem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="problem.cpp">
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="poj-acm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

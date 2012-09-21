@@ -77,6 +77,7 @@
     <ClCompile Include="poj-acm.cpp" />
     <ClCompile Include="problem.cpp" />
     <ClCompile Include="problem_1000_1025.cpp" />
+    <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="poj-acm.h" />
